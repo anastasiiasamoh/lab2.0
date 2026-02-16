@@ -1,0 +1,8 @@
+Melnichuk	Mariia	8	1	2008	3	5	5
+Fedolak	Lubomur	7	4	2009	3	4	5
+Samokhodska	Anastasiia	21	3	2010	5	5	5
+Pushchak	Andrii	1	2	2007	5	4	3
+Sydor	Liliia	12	9	2006	5	5	3
+Ivanov	Ivan	1	2	2007	2	3	3
+Kovalenko	Olena	15	6	2008	5	4	5
+Bondarenko	Petro	20	11	2009	2	2	3
